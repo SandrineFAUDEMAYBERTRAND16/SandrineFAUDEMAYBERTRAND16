@@ -1,10 +1,10 @@
-![image_écrans_et_ordinateur_portable](./image.jpeg)
+
 
 # Sandrine FAUDEMAY-BERTRAND
 
 *Développeur web junior, en formation "Développement web et accessibilité"*
 
-[Accueil](./README.md)-[Projets](./projets.md)-[CV](CV.md)-[Contact](./Contacts.md)
+
 
 ## Présentation
 # Bonjour! 
@@ -43,4 +43,4 @@ The same goes for eco-design.
 
 
 
-copyright: 2024 - Sandrine FAUDEMAY-BERTRAND - [Me contacter](./Contacts.md)
+copyright: 2024 - Sandrine FAUDEMAY-BERTRAND - sandfaudemay arobase gmail.com
